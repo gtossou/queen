@@ -1,0 +1,28 @@
+.bodyDiv{
+    background-image: url("../img/background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body, html {
+    height: 100%;
+}
+
+.timeDiv{
+    text-align: center;
+    padding-top: 300px;
+    
+    
+}
+.dateDiv{
+    text-align: center;
+    
+}
+p {
+    color: whitesmoke;
+    font-family: "Syncopate";
+    font-size: 50px;
+    font-weight: 800;
+    text-shadow: 2px 2px #ff0000;
+}
